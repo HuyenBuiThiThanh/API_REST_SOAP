@@ -1,0 +1,12 @@
+{
+  "utilisateur": {
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "age": 30,
+    "adresse": {
+      "rue": " rue de la République",
+      "ville": "Paris",
+      "codePostal": "75001"},
+    "hobbies": ["lecture", "voyage", "jardinage"]
+  }
+}
